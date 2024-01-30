@@ -12,7 +12,7 @@ Estou aberto(a) a networking e discussões sobre tecnologia.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meadowmage&layout=compact" height="180em">
 </div>
 
-<div style="display:inline_block">
+<div style="display:inline_block; margin-top:"15px" gap: 15px">
 <a href="https://www.linkedin.com/in/luan-silva-b47228122/"><img align="center" alt="Luan-LK" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.twitch.tv/meadowmage"><img align="center" alt="Luan-TW" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://www.instagram.com/luansilvadias/"><img align="center" alt="Luan-IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
