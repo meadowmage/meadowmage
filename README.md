@@ -1,8 +1,14 @@
 ### Olá, Eu sou Luan Silva👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meadowmage&theme=tokyonight&show_icons=true)
+Aberto(a) a Oportunidades:
+Atualmente explorando novas oportunidades para desenvolvimento front-end. Estou disponível para projetos e colaborações.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meadowmage&layout=compact)
+Conecte-se Comigo:
+Estou aberto(a) a networking e discussões sobre tecnologia.
+
+<img src="https://github-readme-stats.vercel.app/api?username=meadowmage&theme=tokyonight&show_icons=true" height="180em">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meadowmage&layout=compact" height="180em">
 
 
 
