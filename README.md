@@ -14,7 +14,7 @@ Estou aberto(a) a networking e discussões sobre tecnologia.
 
 <div style="display:inline_block">
 linkedin
-<img align="center" height="30" width="40" alt="Luan-TW" src="<img align="center" height="30" width="40" alt="Luan-LK" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+<img align="center" height="30" width="40" alt="Luan-TW" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 instagram
 Html
 CSS
