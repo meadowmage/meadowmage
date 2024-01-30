@@ -7,7 +7,7 @@ Conecte-se Comigo:
 Estou aberto(a) a networking e discussões sobre tecnologia.
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=meadowmage&theme=tokyonight&show_icons=true" height="180em" gap="10px">
+<img src="https://github-readme-stats.vercel.app/api?username=meadowmage&theme=tokyonight&show_icons=true" height="180em" margin-right="10px">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meadowmage&layout=compact" height="180em">
   
